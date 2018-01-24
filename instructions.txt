@@ -1,0 +1,19 @@
+Here’s what’s required for the server to run the site:
+
+- - PHP 7.1
+- - composer
+- - MySQL 5.6+
+
+All the code in the linked tar.gz file is all they need + the database dump link.
+
+Once ready to cut over to the new server, they just need to login to cloudflare and change the DNS for crm subdomain to the new IP. If you need a new database dump before going live, just let me know and I can send that over as well.
+
+
+https://www.dropbox.com/s/463dqcz8myo6p25/tjs-crm-c07af3a30b375f78a4e97b7d2eb5e97223fa0e8c-.tar.gz?dl=0
+https://www.dropbox.com/s/lu9vwpovjney4i0/tjs.sql?dl=0
+
+
+Primary admin login to the CRM is:
+
+user: logan@loganbest.net
+pass: 4cZk3uc6ozQ8

@@ -1,0 +1,11 @@
+/vendor
+.idea/*
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+bower_components
+.DS_Store
+.docker/flarepoint-db/*
+public/files/Media/*
+public/images/Media/*
